@@ -1,2 +1,3 @@
 def fizzbuzz(num)
-  if num
+  if num % 3
+    
