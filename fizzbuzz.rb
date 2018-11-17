@@ -1,1 +1,2 @@
-def fizzbuzz
+def fizzbuzz(num)
+  
